@@ -1,0 +1,156 @@
+{
+  "basics": {
+    "name": "Mateus Freira",
+    "label": "Software Architect",
+    "picture": "https://avatars3.githubusercontent.com/u/234049?v=3&s=460",
+    "email": "mateus.freira@gmail.com",
+    "phone": "+55 (31) 99953-6408",
+    "website": "http://github.com/mateusfreira",
+    "summary": "I am born entrepreneur and have +8 years of experience in software development, focused in high scalability/availability. I am a passionate and skillful programmer with strong working knowledge of agile development methods.",
+    "location": {
+      "address": "Cesário parreiras 345 ",
+      "postalCode": "",
+      "city": "Betim",
+      "countryCode": "BR",
+      "region": "Minas Gerais"
+    },
+    "profiles": [{
+      "network": "Twitter",
+      "username": "mateusfreira",
+      "url": "http://twitter.com/mateusfreira"
+    }, {
+      "network": "Github",
+      "username": "mateusfreira",
+      "url": "https://github.com/mateusfreira"
+    }]
+  },
+  "work": [{
+    "company": "Zeedhi",
+    "position": "Software Architect ",
+    "website": "zeedhi.com",
+    "startDate": "2013-03-01",
+    "endDate": "",
+    "summary": "I developed from scratch the main product of the Zeedhi Framework company. This is a Full Stack solution to build web/mobile apps. My duties include working to ensure the proper scalability of the various applications that we are developing, and supporting web and mobile development teams. I also assist with the continuous development of the work teams by helping train them, and implementing and deploying performance improvement with techniques and tools, such as GIT, TDD, CI, CD, DDD, Grunt.",
+    "highlights": [
+      "Frontend : Persistence API (transparent persistence layer to IndexedDb/LocalStorage/Native storage).",
+      "Frontend : NativeInterface(provide access to native function on devices(Android, IoS) like camera, Location, bluetooth).",
+      "Frontend : Event based WebSocket API.",
+      "Frontend : Runtime engine to render UI from json (Users dont need to write HTML files to crete all the interfaces and all componentes are based on templates that can be reused)",
+      "Frontend : Many others apis to improve the development performance",
+      "Backend - ORM.",
+      "Backend - Message queue.",
+      "Backend - Cache",
+      "Backend - Restfull",
+      "Backend - WebSocket ",
+      "Tecnologies used: AngularJS, SASS, Compass, Moment, Grunt, Bower, Jasmine, Node, Mencached, Selenium, Oracle, Posgress, ActiveMQ, Mongo, PHP and Java."
+    ]
+  }, {
+    "company": "VilarikA Soluções",
+    "position": "Co-Founder / Software Architect ",
+    "website": "http://vilarika.com.br",
+    "startDate": "2013-03-01",
+    "endDate": "",
+    "summary": "Startup focused in development of manager solution SAS, simple, agile and mobile first. My responsibilities are business strategy, software architecture, after-sales, new technologies, new products and infrastructure manager (Linode, DigitalOcean and Amazon). Architecture and development of system with Scala(Play e Lift) , NodeJs (Express and Mongo) to backend and angularJs, jquery, handlebars Coffeescript for frontend.",
+    "highlights": [
+      "Tecnologies used: Architecture and development of system with Scala(Play e Lift) , NodeJs (Express and Mongo) to backend and angularJs, jquery, handlebars Coffeescript for frontend."
+    ]
+  }, {
+    "company": "PrimeSystems",
+    "position": "Software Architect ",
+    "website": "http://www.primesystems.com.br/",
+    "startDate": "2010-04-01",
+    "endDate": "2013-02-28",
+    "summary": "I was responsible for the development of highly complex mobile systems for user localization and process automatization. I coordinated the development and deployment of new persistence and synchronization frameworks for mobile applications (Android and JME). I guided a front-end team to ensure the proper implementation of good user experience guidelines using HTML, CSS, Javascript, and mobile technologies. I created a workflow of mobile teams with the following tools: Jenkins, github, TDD, CI.",
+    "highlights": [
+      "Android",
+      "J2ME"
+    ]
+  }, {
+    "company": "Teknisa",
+    "position": "Programmer",
+    "website": "http://teknisa.com",
+    "startDate": "2009-06-01",
+    "endDate": "2010-03-30",
+    "summary": "I was in charge of helping design and build a new metadata oriented web framework, with a specific engine to build output for many devices with the same metadata base. Using: PHP, Zend, Android, Java, Doctrine, Jquery, P4A and Oracle.  I ministered courses of object orientation and design patterns for other developers. ",
+    "highlights": []
+  }, {
+    "company": "Ormuztech",
+    "position": "Programmer",
+    "website": "http://www.ormuztech.com.br/blog/",
+    "startDate": "2008-09-01",
+    "endDate": "2009-06-30",
+    "summary": "I was responsible for the development of an ERP for beauty salons in PHP and MYSQL. After 3 months, I was the main developer of this product. It was released to the first customer in 6 months.",
+    "highlights": []
+  }],
+  "volunteer": [],
+  "education": [{
+    "institution": "Puc Minas",
+    "area": "Information Technology",
+    "studyType": "Bachelor",
+    "startDate": "2007-01-01",
+    "endDate": "2015-06-30",
+    "gpa": "",
+    "courses": [
+      ""
+    ]
+  }],
+  "awards": [],
+  "publications": [{
+    "name": "Development of a framework metadata based to creating RIA applications, a case study of use pattern metadata-based Graphical Component",
+    "publisher": "Miniplop",
+    "releaseDate": "2011-09-25",
+    "website": "http://goo.gl/Uv1oDr",
+    "summary": "Develop systems swiftly and reliably has been ever harder. This is further aggravated with the popularization of multi-tier web-based applications, particularly those developed as RIA (Rich Internet Application). The Flex Framework is presented as a good alternative to creating these applications, however, to use Flex you need to study itself and other technologies such as AcionScript 3 and the AMF (to communicate with the server), resulting in a huge complexity during software development also increasing needs for concern about code reuse for creation and communication interfaces. With this in mind, we tried to build a framework where developer doesn’t need to know about Flex syntax. For such, use of metadata stored in a database was proposed, then, that can be interpreted by client layer using an architectural pattern-based Graphical Component Metadata and manage user interfaces, arranging service calls transparently to developer. This paper’s goal is show implementation of the client layer beyond the standards used to construct the same."
+  }],
+  "skills": [{
+    "name": "Software Architect ",
+    "level": "Senior",
+    "keywords": [
+      "Scalability",
+      "Non-functional requirement",
+      "Technologies and solutions"
+    ]
+  }, {
+    "name": "Developer",
+    "level": "Master",
+    "keywords": [
+      "Sala",
+      "Javascript",
+      "Java",
+      "PHP",
+      "SASS",
+      "AngularJS",
+      "Node",
+      "Mencached",
+      "Selenium",
+      "Oracle",
+      "Posgress",
+      "ActiveMQ",
+      "Mongo",
+      "SCALA",
+      "Java",
+      "PHP",
+      "SASS",
+      "Compass",
+      "Moment",
+      "Grunt",
+      "Bower",
+      "Jasmine",
+      "Coffeescript"
+    ]
+  }],
+  "languages": [{
+    "language": "English",
+    "fluency": "Advanced"
+  }, {
+    "language": "Portugues",
+    "fluency": "Native"
+  }],
+  "interests": [{
+    "name": "Development",
+    "keywords": [
+      "NodeJS", "Scala", "Android", "Mobile", "Real Time"
+    ]
+  }],
+  "references": []
+}
