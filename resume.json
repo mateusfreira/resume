@@ -6,7 +6,7 @@
     "email": "mateus.freira@gmail.com",
     "phone": "+55 (31) 99953-6408",
     "website": "http://github.com/mateusfreira",
-    "summary": "  I am a passionate developer that loves to build solutions, with strong working knowledge of agile development methodologies and many languages, platforms and frameworks. I have been worked like a developer since 2007. I've been working for the last 3 years at Zeedhi where a I developed from scratch a framework angular based to develop mobile and web solutions, this framework today is the base of more that 30 application inside Teknisa Group(www.teknisa.com). At Zeddhi I'm today a tech lead and tech reference of more that 40 people and I'm repoisable to choose all tecklogies for the projects and developer the core features of any project in Teknisa Group(www.teknisa.com) on FrontEnd, Backend or mobile native plataforms(IOS and Android).    \n    I also contribuite for some open sources projects, that you can be check in the folow links.\n  As a Leader\n  \n  https://github.com/mateusfreira/node-stackoverflow-jobs\n  https://github.com/mateusfreira/activemq-scala-util\n  https://github.com/appbaseio/Docbase\n  https://github.com/appbaseio/grunt-docbase\n  https://github.com/mateusfreira/generator-docbase\n  https://github.com/mateusfreira/BlueDroid (old one)\n  As a Contribuitor\n  \n  https://github.com/peterdemartini/github-jobs\n  https://github.com/Hacklone/private-bower\n  https://github.com/ArkeologeN/angel.co-node\n  https://github.com/jansepar/node-jenkins-api'\n   https://github.com/andreazevedo/dispatch-github\n  \n   I have a big experience with the following technologies : Scala, Nodejs, Mobile(Android, IoS), Java(EE),  Angular, MongoDb, Redis, Mencached, PostgreSQL, C++ and PHP.",
+    "summary": "  I am a passionate developer that loves to build solutions, with strong working knowledge of agile development methodologies and many languages, platforms and frameworks. I have been working as a developer since 2007. I've been working for the last three years at Zeedhi where I developed from scratch a framework angular based to develop mobile and web solutions, it today is the base of more that 30 application inside Teknisa Group(www.teknisa.com). At Zeddhi, I'm today a tech lead and tech reference of more that 40 people and I'm responsible for choosing all technologies for the projects and developer the core features of any project in Teknisa Group(www.teknisa.com) on FrontEnd, Backend or native mobile platforms(IOS and Android). I also contribute to some open sources projects, that you can be check in the follow links. \n \n\n As a Leader https://github.com/mateusfreira/node-stackoverflow-jobs \n https://github.com/mateusfreira/activemq-scala-util \n https://github.com/appbaseio/Docbase \n https://github.com/appbaseio/grunt-docbase \n https://github.com/mateusfreira/generator-docbase \n https://github.com/mateusfreira/BlueDroid \n \n As a Contributor \n https://github.com/peterdemartini/github-jobs\n https://github.com/Hacklone/private-bower\n https://github.com/ArkeologeN/angel.co-node\n https://github.com/jansepar/node-jenkins-api\n https://github.com/andreazevedo/dispatch-github \n I have a big experience with the following technologies: Scala, Node, Mobile(Android, IoS), Java(EE), Angular, MongoDb, Redis, Memcached, PostgreSQL, C++, and PHP.",
     "location": {
       "address": "Cesário parreiras 345 ",
       "postalCode": "",
@@ -29,8 +29,7 @@
     "position": "Software Architect ",
     "website": "http://www.zeedhi.com/",
     "startDate": "2013-03-01",
-    "endDate": "",
-    "summary": "I developed from scratch the main product of the Zeedhi Framework company. This is a Full Stack solution to build web/mobile apps. My duties include working to ensure the proper scalability of the various applications that we are developing, and supporting web and mobile development teams. I also assist with the continuous development of the work teams by helping train them, and implementing and deploying performance improvement with techniques and tools, such as GIT, TDD, CI, CD, DDD, Grunt.",
+    "summary": "I developed from scratch the primary product of the Zeedhi Framework company. That is a Full Stack solution to build web/mobile apps. My duties include working to ensure the proper scalability of the various applications that we are developing and supporting the web and mobile development teams. I also assist with the training of the work teams by helping train them, and implementing and deploying performance improvement with techniques and tools, such as GIT, TDD, CI, CD, DDD ",
     "highlights": [
       "Frontend : Persistence API (transparent persistence layer to IndexedDb/LocalStorage/Native storage).",
       "Frontend : NativeInterface(provide access to native function on devices(Android, IoS) like camera, Location, bluetooth).",
@@ -42,7 +41,7 @@
       "Backend - Cache",
       "Backend - Restfull",
       "Backend - WebSocket ",
-      "Technologies: AngularJS, SASS, Compass, Moment, Grunt, Bower, Jasmine, Node, Mencached, Selenium, Oracle, Posgress, ActiveMQ, Mongo, PHP and Java."
+      "Technologies: AngularJS, SASS, Compass, Moment, Grunt, Bower, Jasmine, Node, Memcached, Selenium, Oracle, Postgresql, ActiveMQ, Mongo, PHP and Java."
     ]
   }, {
     "company": "VilarikA Soluções",
@@ -50,7 +49,7 @@
     "website": "http://vilarika.com.br",
     "startDate": "2013-03-01",
     "endDate": "2015-12-31",
-    "summary": "Startup focused in development of manager solution SAS, simple, agile and mobile first. My responsibilities are business strategy, software architecture, after-sales, new technologies, new products and infrastructure manager (Linode, DigitalOcean and Amazon). Architecture and development of system with Scala(Play e Lift) , NodeJs (Express and Mongo) to backend and angularJs, jquery, handlebars Coffeescript for frontend.",
+    "summary": "Startup focused on the development of manager solution SAS, simple, agile and mobile first. My responsibilities were the business strategy, software architecture, after-sales, new technologies, new products and infrastructure manager (Linode, DigitalOcean, and Amazon). Desing and development of a system with Scala(Play e Lift), NodeJs (Express and Mongo) to backend and angularJs, jquery, handlebars Coffeescript for the frontend.",
     "highlights": [
       "Technologies : Scala(Play and Lift) , NodeJs (Express and Mongo) to backend and angularJs, jquery, handlebars Coffeescript for frontend."
     ]
@@ -60,7 +59,7 @@
     "website": "http://www.primesystems.com.br/",
     "startDate": "2010-04-01",
     "endDate": "2013-02-28",
-    "summary": "I was responsible for the development of highly complex mobile systems for user localization and process automatization. I coordinated the development and deployment of new persistence and synchronization frameworks for mobile applications (Android and JME). I guided a front-end team to ensure the proper implementation of good user experience guidelines using HTML, CSS, Javascript, and mobile technologies. I created a workflow of mobile teams with the following tools: Jenkins, github, TDD, CI.",
+    "summary": "I was responsible for the development of highly complex mobile systems for user localization and process automatization. I coordinated the development and deployment of new persistence and synchronization frameworks for mobile applications (Android and JME). I guided a front-end team to ensure the proper implementation of good user experience guidelines using HTML, CSS, Javascript, and mobile technologies. I created a workflow of mobile teams with the following tools: Jenkins, Github, TDD, CI.",
     "highlights": [
       "Android",
       "J2ME"
@@ -71,7 +70,7 @@
     "website": "http://teknisa.com",
     "startDate": "2009-06-01",
     "endDate": "2010-03-30",
-    "summary": "I was in charge of helping design and build a new metadata oriented web framework, with a specific engine to build output for many devices with the same metadata base. Using: PHP, Zend, Android, Java, Doctrine, Jquery, P4A and Oracle.  I ministered courses of object orientation and design patterns for other developers. ",
+    "summary": "I was in charge design and build a new metadata oriented web framework, with an engine to release for many devices with the same metadata base. Using  PHP, Zend, Android, Java, Doctrine, Jquery, P4A, and Oracle. I ministered courses of object orientation and design patterns for other developers.",
     "highlights": []
   }, {
     "company": "Ormuztech",
@@ -79,7 +78,7 @@
     "website": "http://www.ormuztech.com.br/blog/",
     "startDate": "2008-09-01",
     "endDate": "2009-06-30",
-    "summary": "I was responsible for the development of an ERP for beauty salons in PHP and MYSQL. After 3 months, I was the main developer of this product. It was released to the first customer in 6 months.",
+    "summary": "I was responsible for the development of an ERP for beauty salons in PHP and MYSQL. After three months, I was the lead developer of this product. I had delivered it to the first customer in 6 months.",
     "highlights": []
   }],
   "volunteer": [],
@@ -100,7 +99,7 @@
     "publisher": "Miniplop",
     "releaseDate": "2011-09-25",
     "website": "http://goo.gl/Uv1oDr",
-    "summary": "Develop systems swiftly and reliably has been ever harder. This is further aggravated with the popularization of multi-tier web-based applications, particularly those developed as RIA (Rich Internet Application). The Flex Framework is presented as a good alternative to creating these applications, however, to use Flex you need to study itself and other technologies such as AcionScript 3 and the AMF (to communicate with the server), resulting in a huge complexity during software development also increasing needs for concern about code reuse for creation and communication interfaces. With this in mind, we tried to build a framework where developer doesn’t need to know about Flex syntax. For such, use of metadata stored in a database was proposed, then, that can be interpreted by client layer using an architectural pattern-based Graphical Component Metadata and manage user interfaces, arranging service calls transparently to developer. This paper’s goal is show implementation of the client layer beyond the standards used to construct the same."
+    "summary": ""
   }],
   "skills": [{
     "name": "Software Architect ",
@@ -122,10 +121,10 @@
       "SASS",
       "AngularJS",
       "Node",
-      "Mencached",
+      "Memcached",
       "Selenium",
       "Oracle",
-      "Posgress",
+      "Postgresql",
       "ActiveMQ",
       "Mongo",
       "SCALA",
