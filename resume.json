@@ -6,7 +6,7 @@
     "email": "mateus.freira@gmail.com",
     "phone": "+55 (31) 99953-6408",
     "website": "http://github.com/mateusfreira",
-    "summary": "I am born entrepreneur and have +8 years of experience in software development, focused in high scalability/availability. I am a passionate and skillful programmer with strong working knowledge of agile development methods.",
+    "summary": "  I am a passionate developer that loves to build solutions, with strong working knowledge of agile development methodologies and many languages, platforms and frameworks. I have been worked like a developer since 2007. I've been working for the last 3 years at Zeedhi where a I developed from scratch a framework angular based to develop mobile and web solutions, this framework today is the base of more that 30 application inside Teknisa Group(www.teknisa.com). At Zeddhi I'm today a tech lead and tech reference of more that 40 people and I'm repoisable to choose all tecklogies for the projects and developer the core features of any project in Teknisa Group(www.teknisa.com) on FrontEnd, Backend or mobile native plataforms(IOS and Android).    \n    I also contribuite for some open sources projects, that you can be check in the folow links.\n  As a Leader\n  \n  https://github.com/mateusfreira/node-stackoverflow-jobs\n  https://github.com/mateusfreira/activemq-scala-util\n  https://github.com/appbaseio/Docbase\n  https://github.com/appbaseio/grunt-docbase\n  https://github.com/mateusfreira/generator-docbase\n  https://github.com/mateusfreira/BlueDroid (old one)\n  As a Contribuitor\n  \n  https://github.com/peterdemartini/github-jobs\n  https://github.com/Hacklone/private-bower\n  https://github.com/ArkeologeN/angel.co-node\n  https://github.com/jansepar/node-jenkins-api'\n   https://github.com/andreazevedo/dispatch-github\n  \n   I have a big experience with the following technologies : Scala, Nodejs, Mobile(Android, IoS), Java(EE),  Angular, MongoDb, Redis, Mencached, PostgreSQL, C++ and PHP.",
     "location": {
       "address": "Cesário parreiras 345 ",
       "postalCode": "",
@@ -27,7 +27,7 @@
   "work": [{
     "company": "Zeedhi",
     "position": "Software Architect ",
-    "website": "zeedhi.com",
+    "website": "http://www.zeedhi.com/",
     "startDate": "2013-03-01",
     "endDate": "",
     "summary": "I developed from scratch the main product of the Zeedhi Framework company. This is a Full Stack solution to build web/mobile apps. My duties include working to ensure the proper scalability of the various applications that we are developing, and supporting web and mobile development teams. I also assist with the continuous development of the work teams by helping train them, and implementing and deploying performance improvement with techniques and tools, such as GIT, TDD, CI, CD, DDD, Grunt.",
@@ -42,17 +42,17 @@
       "Backend - Cache",
       "Backend - Restfull",
       "Backend - WebSocket ",
-      "Tecnologies used: AngularJS, SASS, Compass, Moment, Grunt, Bower, Jasmine, Node, Mencached, Selenium, Oracle, Posgress, ActiveMQ, Mongo, PHP and Java."
+      "Technologies: AngularJS, SASS, Compass, Moment, Grunt, Bower, Jasmine, Node, Mencached, Selenium, Oracle, Posgress, ActiveMQ, Mongo, PHP and Java."
     ]
   }, {
     "company": "VilarikA Soluções",
     "position": "Co-Founder / Software Architect ",
     "website": "http://vilarika.com.br",
     "startDate": "2013-03-01",
-    "endDate": "",
+    "endDate": "2015-12-31",
     "summary": "Startup focused in development of manager solution SAS, simple, agile and mobile first. My responsibilities are business strategy, software architecture, after-sales, new technologies, new products and infrastructure manager (Linode, DigitalOcean and Amazon). Architecture and development of system with Scala(Play e Lift) , NodeJs (Express and Mongo) to backend and angularJs, jquery, handlebars Coffeescript for frontend.",
     "highlights": [
-      "Tecnologies used: Architecture and development of system with Scala(Play e Lift) , NodeJs (Express and Mongo) to backend and angularJs, jquery, handlebars Coffeescript for frontend."
+      "Technologies : Scala(Play and Lift) , NodeJs (Express and Mongo) to backend and angularJs, jquery, handlebars Coffeescript for frontend."
     ]
   }, {
     "company": "PrimeSystems",
@@ -85,7 +85,7 @@
   "volunteer": [],
   "education": [{
     "institution": "Puc Minas",
-    "area": "Information Technology",
+    "area": "Information Systems",
     "studyType": "Bachelor",
     "startDate": "2007-01-01",
     "endDate": "2015-06-30",
