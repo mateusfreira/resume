@@ -83,15 +83,20 @@
   }],
   "volunteer": [],
   "education": [{
-    "institution": "Puc Minas",
+    "institution": "Pontifícia Universidade Católica de Minas Gerais",
+    "area": "Computer Science",
+    "studyType": "Master's",
+    "startDate": "2016-06-01",
+    "gpa": "",
+    "courses": []
+  }, {
+    "institution": "Pontifícia Universidade Católica de Minas Gerais",
     "area": "Information Systems",
     "studyType": "Bachelor",
     "startDate": "2007-01-01",
     "endDate": "2015-06-30",
     "gpa": "",
-    "courses": [
-      ""
-    ]
+    "courses": []
   }],
   "awards": [],
   "publications": [{
