@@ -6,7 +6,7 @@
     "email": "mateus.freira@gmail.com",
     "phone": "+55 (31) 99953-6408",
     "website": "http://github.com/mateusfreira",
-    "summary": "I am a passionate developer that loves to build solutions and solve problems, with knowledge in many programming languages, platforms, and frameworks. I have been working as a developer since 2007, and my experiences are from developing software as service solutions (5 years), creating development tools (3 years), to creating ERP solutions (3 years) and as a consultant developer in many projects (5 years), as a Tech lead or as an individual contributor. I have strong experience with the following technologies: Node.js, React, Scala, Mobile(Android), Java, Angular, MongoDb, Redis, Memcached, PostgreSQL, Kubernetes, and Docker.",
+    "summary": "I am a passionate developer that loves to build solutions and solve problems, with knowledge in many programming languages, platforms, and frameworks. I have been working as a developer since 2007, and my experiences are from developing software as service (5 years), creating development tools (3 years), ERP solutions (3 years) and as a consultant developer in many projects (5 years), as a Tech lead or as an individual contributor. I have strong experience with the following technologies: Node.js, React, Scala, Mobile(Android), Java, Angular, MongoDb, Redis, Memcached, PostgreSQL, Kubernetes, and Docker.",
     "location": {
       "address": "Cesário parreiras 345 ",
       "postalCode": "",
@@ -14,205 +14,248 @@
       "countryCode": "BR",
       "region": "Minas Gerais"
     },
-    "profiles": [{
-      "network": "Twitter",
-      "username": "mateusfreira",
-      "url": "http://twitter.com/mateusfreira"
-    }, {
-      "network": "Github",
-      "username": "mateusfreira",
-      "url": "https://github.com/mateusfreira"
-    }]
-  },
-  "work": [{
-    "company": "Radical",
-    "position": "Lead Software Engineer",
-    "website": "http://radicalimaging.com/",
-    "startDate": "2019-02-29",
-    "summary": "[Remote] At Radical I am software developer consultant, working in medical imaging applications development projects",
-    "highlights": [
-      "Technology stack: Node.js, React.js, Mongo, Dicom, Medical Imaging Processing."
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "mateusfreira",
+        "url": "http://twitter.com/mateusfreira"
+      },
+      {
+        "network": "Github",
+        "username": "mateusfreira",
+        "url": "https://github.com/mateusfreira"
+      }
     ]
   },
-  {
-    "company": "Tenfold",
-    "position": "Lead Software Engineer",
-    "website": "http://www.tenfold.com/",
-    "startDate": "2017-02-01",
-    "endDate": "2019-02-29",
-    "summary": "[Remote] I lead a team of four engineers, with the mission to improve the product and increase product performance metrics and the NPS score, also training, hiring, and mentoring the team member. I was the leader of a team for stabilizing the product to support the usage growth, after the stabilization moved to a product role, been responsible to delivery new integration (such as Sugar CRM, Dialpad, Salesforce, etc.) and core features.",
-    "highlights": [
-      "Technology stack: Node.js, Angular, Mongo, Firebase, ElasticSearch, Kafka, AWS, Google Cloud and Kubernetes ."
-    ]
-  }, {
-    "company": "Tenfold",
-    "position": "Software Engineer",
-    "website": "http://www.tenfold.com/",
-    "startDate": "2016-09-30",
-    "endDate": "2017-02-29",
-    "summary": "[Remote]  My first challenge at Tenfold was to develop a new feature of email integration, using the email as data streaming to collect customers' interactions and sync this information with record systems like the CRM. The integration included https://context.io, google apps, office 365, and Salesforce APIs. Then I developed a new Gmail chrome extension to make all CRM information available on the Gmail interface. Then my next challenge on tenfold was to take part in a task force to improve the NPS and reduce to 0 the number of outages. As a part of this job, I took the responsibility to increase the backend code coverage to > 70% and also fixing some edge case bugs that only happened in the production environment. These two tasks give me a new vision of the code and system architecture, which soon made me a Lead Engineer.",
-    "highlights": [
-      "Technology stack: Node.js, Angular, Mongo, Firebase, ElasticSearch, Kafka, AWS, Google Cloud and Kubernetes ."
-    ]
-  },{
-    "company": "Zeedhi",
-    "position": "Software Architect ",
-    "website": "http://www.zeedhi.com/",
-    "startDate": "2013-03-01",
-    "endDate": "2016-09-30",
-    "summary": "I developed from scratch the primary product of the Zeedhi Framework company. That is a Full Stack solution to build web/mobile apps. My duties include working to ensure the proper scalability of the various applications that we are developing and supporting the web and mobile development teams. I also assist with the training of the work teams by helping train them, and implementing and deploying performance improvement with techniques and tools, such as GIT, TDD, CI, CD, DDD ",
-    "highlights": [
-      "Frontend : Persistence API (transparent persistence layer to IndexedDb/LocalStorage/Native storage).",
-      "Frontend : NativeInterface(provide access to native function on devices(Android, IoS) like camera, Location, bluetooth).",
-      "Frontend : Event based WebSocket API.",
-      "Frontend : Runtime engine to render UI from json (Users dont need to write HTML files to crete all the interfaces and all componentes are based on templates that can be reused)",
-      "Frontend : Many others apis to improve the development performance",
-      "Backend - ORM.",
-      "Backend - Message queue.",
-      "Backend - Cache",
-      "Backend - Restfull",
-      "Backend - WebSocket ",
-      "Technologies: AngularJS, SASS, Compass, Moment, Grunt, Bower, Jasmine, Node, Memcached, Selenium, Oracle, Postgresql, ActiveMQ, Mongo, PHP and Java."
-    ]
-  }, {
-    "company": "VilarikA Soluções",
-    "position": "Co-Founder / Software Architect ",
-    "website": "http://vilarika.com.br",
-    "startDate": "2013-03-01",
-    "endDate": "2015-12-31",
-    "summary": "Startup focused on the development of manager solution SAS, simple, agile and mobile first. My responsibilities were the business strategy, software architecture, after-sales, new technologies, new products and infrastructure manager (Linode, DigitalOcean, and Amazon). Desing and development of a system with Scala(Play e Lift), NodeJs (Express and Mongo) to backend and angularJs, jquery, handlebars Coffeescript for the frontend.",
-    "highlights": [
-      "Technologies : Scala(Play and Lift) , NodeJs (Express and Mongo) to backend and angularJs, jquery, handlebars Coffeescript for frontend."
-    ]
-  }, {
-    "company": "PrimeSystems",
-    "position": "Software Architect ",
-    "website": "http://www.primesystems.com.br/",
-    "startDate": "2010-04-01",
-    "endDate": "2013-02-28",
-    "summary": "I was responsible for the development of highly complex mobile systems for user localization and process automatization. I coordinated the development and deployment of new persistence and synchronization frameworks for mobile applications (Android and JME). I guided a front-end team to ensure the proper implementation of good user experience guidelines using HTML, CSS, Javascript, and mobile technologies. I created a workflow of mobile teams with the following tools: Jenkins, Github, TDD, CI.",
-    "highlights": [
-      "Android",
-      "J2ME"
-    ]
-  }, {
-    "company": "Teknisa",
-    "position": "Programmer",
-    "website": "http://teknisa.com",
-    "startDate": "2009-06-01",
-    "endDate": "2010-03-30",
-    "summary": "I was in charge design and build a new metadata oriented web framework, with an engine to release for many devices with the same metadata base. Using  PHP, Zend, Android, Java, Doctrine, Jquery, P4A, and Oracle. I ministered courses of object orientation and design patterns for other developers.",
-    "highlights": []
-  }, {
-    "company": "Ormuztech",
-    "position": "Programmer",
-    "website": "http://www.ormuztech.com.br/blog/",
-    "startDate": "2008-09-01",
-    "endDate": "2009-06-30",
-    "summary": "I was responsible for the development of an ERP for beauty salons in PHP and MYSQL. After three months, I was the lead developer of this product. I had delivered it to the first customer in 6 months.",
-    "highlights": []
-  }],
+  "work": [
+    {
+      "company": "Radical Imaging",
+      "position": "Lead Software Engineer",
+      "website": "http://radicalimaging.com/",
+      "startDate": "2019-04-01",
+      "summary": "[Remote] As a leader at Radical, I lead a team of 4 engineers consultant, working in medical imaging applications development projects. My primary duties are working with the core features, architectural changes and decisions, mentoring and workload control for the team in the projects I lead.",
+      "highlights": [
+        "Technology stack: Node.js, React.js, Mongo, Dicom, Medical Imaging Processing."
+      ]
+    },
+    {
+      "company": "Radical Imaging",
+      "position": "Software Engineer",
+      "website": "http://radicalimaging.com/",
+      "startDate": "2019-02-29",
+      "endDate": "2019-04-01",
+      "summary": "[Remote] At Radical I am software developer consultant, working in medical imaging applications development projects",
+      "highlights": [
+        "Technology stack: Node.js, React.js, Mongo, Dicom, Medical Imaging Processing."
+      ]
+    },
+    {
+      "company": "Tenfold",
+      "position": "Lead Software Engineer",
+      "website": "http://www.tenfold.com/",
+      "startDate": "2017-02-01",
+      "endDate": "2019-02-29",
+      "summary": "[Remote] I lead a team of four engineers, with the mission to improve the product and increase product performance metrics and the NPS score, also training, hiring, and mentoring the team member. I was the leader of a team for stabilizing the product to support the usage growth, after the stabilization moved to a product role, been responsible to delivery new integration (such as Sugar CRM, Dialpad, Salesforce, etc.) and core features.",
+      "highlights": [
+        "Technology stack: Node.js, Angular, Mongo, Firebase, ElasticSearch, Kafka, AWS, Google Cloud and Kubernetes ."
+      ]
+    },
+    {
+      "company": "Tenfold",
+      "position": "Software Engineer",
+      "website": "http://www.tenfold.com/",
+      "startDate": "2016-09-30",
+      "endDate": "2017-02-29",
+      "summary": "[Remote]  My first challenge at Tenfold was to develop a new feature of email integration, using the email as data streaming to collect customers' interactions and sync this information with record systems like the CRM. The integration included https://context.io, google apps, office 365, and Salesforce APIs. Then I developed a new Gmail chrome extension to make all CRM information available on the Gmail interface. Then my next challenge on tenfold was to take part in a task force to improve the NPS and reduce to 0 the number of outages. As a part of this job, I took the responsibility to increase the backend code coverage to > 70% and also fixing some edge case bugs that only happened in the production environment. These two tasks give me a new vision of the code and system architecture, which soon made me a Lead Engineer.",
+      "highlights": [
+        "Technology stack: Node.js, Angular, Mongo, Firebase, ElasticSearch, Kafka, AWS, Google Cloud and Kubernetes ."
+      ]
+    },
+    {
+      "company": "Zeedhi",
+      "position": "Software Architect ",
+      "website": "http://www.zeedhi.com/",
+      "startDate": "2013-03-01",
+      "endDate": "2016-09-30",
+      "summary": "I developed from scratch the primary product of the Zeedhi Framework company. That is a Full Stack solution to build web/mobile apps. My duties include working to ensure the proper scalability of the various applications that we are developing and supporting the web and mobile development teams. I also assist with the training of the work teams by helping train them, and implementing and deploying performance improvement with techniques and tools, such as GIT, TDD, CI, CD, DDD ",
+      "highlights": [
+        "Frontend : Persistence API (transparent persistence layer to IndexedDb/LocalStorage/Native storage).",
+        "Frontend : NativeInterface(provide access to native function on devices(Android, IoS) like camera, Location, bluetooth).",
+        "Frontend : Event based WebSocket API.",
+        "Frontend : Runtime engine to render UI from json (Users dont need to write HTML files to crete all the interfaces and all componentes are based on templates that can be reused)",
+        "Frontend : Many others apis to improve the development performance",
+        "Backend - ORM.",
+        "Backend - Message queue.",
+        "Backend - Cache",
+        "Backend - Restfull",
+        "Backend - WebSocket ",
+        "Technologies: AngularJS, SASS, Compass, Moment, Grunt, Bower, Jasmine, Node, Memcached, Selenium, Oracle, Postgresql, ActiveMQ, Mongo, PHP and Java."
+      ]
+    },
+    {
+      "company": "VilarikA Soluções",
+      "position": "Co-Founder / Software Architect ",
+      "website": "http://vilarika.com.br",
+      "startDate": "2013-03-01",
+      "endDate": "2015-12-31",
+      "summary": "Startup focused on the development of manager solution SAS, simple, agile and mobile first. My responsibilities were the business strategy, software architecture, after-sales, new technologies, new products and infrastructure manager (Linode, DigitalOcean, and Amazon). Desing and development of a system with Scala(Play e Lift), NodeJs (Express and Mongo) to backend and angularJs, jquery, handlebars Coffeescript for the frontend.",
+      "highlights": [
+        "Technologies : Scala(Play and Lift) , NodeJs (Express and Mongo) to backend and angularJs, jquery, handlebars Coffeescript for frontend."
+      ]
+    },
+    {
+      "company": "PrimeSystems",
+      "position": "Software Architect ",
+      "website": "http://www.primesystems.com.br/",
+      "startDate": "2010-04-01",
+      "endDate": "2013-02-28",
+      "summary": "I was responsible for the development of highly complex mobile systems for user localization and process automatization. I coordinated the development and deployment of new persistence and synchronization frameworks for mobile applications (Android and JME). I guided a front-end team to ensure the proper implementation of good user experience guidelines using HTML, CSS, Javascript, and mobile technologies. I created a workflow of mobile teams with the following tools: Jenkins, Github, TDD, CI.",
+      "highlights": [
+        "Android",
+        "J2ME"
+      ]
+    },
+    {
+      "company": "Teknisa",
+      "position": "Programmer",
+      "website": "http://teknisa.com",
+      "startDate": "2009-06-01",
+      "endDate": "2010-03-30",
+      "summary": "I was in charge design and build a new metadata oriented web framework, with an engine to release for many devices with the same metadata base. Using  PHP, Zend, Android, Java, Doctrine, Jquery, P4A, and Oracle. I ministered courses of object orientation and design patterns for other developers.",
+      "highlights": []
+    },
+    {
+      "company": "Ormuztech",
+      "position": "Programmer",
+      "website": "http://www.ormuztech.com.br/blog/",
+      "startDate": "2008-09-01",
+      "endDate": "2009-06-30",
+      "summary": "I was responsible for the development of an ERP for beauty salons in PHP and MYSQL. After three months, I was the lead developer of this product. I had delivered it to the first customer in 6 months.",
+      "highlights": []
+    }
+  ],
   "volunteer": [],
-  "education": [{
-    "institution": "Pontifícia Universidade Católica de Minas Gerais",
-    "area": "Master of Science in Computer Science (M.S.C.S.)",
-    "studyType": "Master's",
-    "startDate": "2016-06-01",
-    "endDate": "2018-12-15",
-    "gpa": "",
-    "courses": [
-      "Research in Understanding Developer's Sentiment Variations in Social Programming Network; Tools for mining software repositories",
-      "Research Interests: Machine learn; Complex network; Natural language processing"
-    ]
-  },{
-    "institution": "Puc Minas",
-    "area": "Information Systems",
-    "studyType": "Bachelor",
-    "startDate": "2007-01-01",
-    "endDate": "2015-06-30",
-    "gpa": "",
-    "courses": [
-      ""
-    ]
-  }],
+  "education": [
+    {
+      "institution": "Pontifícia Universidade Católica de Minas Gerais",
+      "area": "Master of Science in Computer Science (M.S.C.S.)",
+      "studyType": "Master's",
+      "startDate": "2016-06-01",
+      "endDate": "2018-12-15",
+      "gpa": "",
+      "courses": [
+        "Research in Understanding Developer's Sentiment Variations in Social Programming Network; Tools for mining software repositories",
+        "Research Interests: Machine learn; Complex network; Natural language processing"
+      ]
+    },
+    {
+      "institution": "Puc Minas",
+      "area": "Information Systems",
+      "studyType": "Bachelor",
+      "startDate": "2007-01-01",
+      "endDate": "2015-06-30",
+      "gpa": "",
+      "courses": [
+        ""
+      ]
+    }
+  ],
   "awards": [],
-  "publications": [{
-    "name": "Analyzing The Impact Of Feedback In GitHub On The Software Developer's Mood",
-    "publisher": "SEKE Software Engineering and Knowledge Engineering",
-    "releaseDate": "2018-06-30",
-    "website": "http://ksiresearchorg.ipage.com/seke/seke18.html",
-    "summary": ""
-  },{
-    "name": "An Empirical Study on the Impact of Android Code Smells on Resource Usage",
-    "publisher": "SEKE Software Engineering and Knowledge Engineering",
-    "releaseDate": "2018-06-30",
-    "website": "http://ksiresearchorg.ipage.com/seke/seke18.html",
-    "summary": ""
-  }, {
-    "name": "Using sentiment analysis to define twitter political users’ classes and their homophily during the 2016 American presidential election",
-    "publisher": "Journal of Internet Services and Applications",
-    "releaseDate": "2018-11-30",
-    "website": "https://jisajournal.springeropen.com/",
-    "summary": ""
-  }, {
-    "name": "Utilizando Análise de Sentimentos para Definição da Homofilia Política dos Usuários do Twitter durante a Eleição Presidencial Americana de 2016",
-    "publisher": "Brazilian Workshop on Social Network Analysis and Mining (BraSNAM)At: São Paulo, São Paulo, Brazil",
-    "releaseDate": "2017-05-30",
-    "website": "http://www.each.usp.br/digiampietri/BraSNAM/2017/index.html",
-    "summary": ""
-  } ,{
-    "name": "Development of a framework metadata based to creating RIA applications, a case study of use pattern metadata-based Graphical Component",
-    "publisher": "Miniplop",
-    "releaseDate": "2011-09-25",
-    "website": "http://goo.gl/Uv1oDr",
-    "summary": ""
-  }],
-  "skills": [{
-    "name": "Software Architect ",
-    "level": "Senior",
-    "keywords": [
-      "Scalability",
-      "Non-functional requirement",
-      "Technologies and solutions"
-    ]
-  }, {
-    "name": "Developer",
-    "level": "Master",
-    "keywords": [
-      "Node.js",
-      "Elasticsearch",
-      "Sala",
-      "Javascript",
-      "Java",
-      "PHP",
-      "SASS",
-      "AngularJS",
-      "Node",
-      "Memcached",
-      "Kubernetes",
-      "Selenium",
-      "Oracle",
-      "Postgresql",
-      "ActiveMQ",
-      "Mongo",
-      "SCALA",
-      "Java",
-      "PHP",
-      "SASS"
-    ]
-  }],
-  "languages": [{
-    "language": "English",
-    "fluency": "Advanced"
-  }, {
-    "language": "Portugues",
-    "fluency": "Native"
-  }],
-  "interests": [{
-    "name": "Development",
-    "keywords": [
-      "NodeJS", "Scala", "Android", "Mobile", "Real Time"
-    ]
-  }],
+  "publications": [
+    {
+      "name": "Analyzing The Impact Of Feedback In GitHub On The Software Developer's Mood",
+      "publisher": "SEKE Software Engineering and Knowledge Engineering",
+      "releaseDate": "2018-06-30",
+      "website": "http://ksiresearchorg.ipage.com/seke/seke18.html",
+      "summary": ""
+    },
+    {
+      "name": "An Empirical Study on the Impact of Android Code Smells on Resource Usage",
+      "publisher": "SEKE Software Engineering and Knowledge Engineering",
+      "releaseDate": "2018-06-30",
+      "website": "http://ksiresearchorg.ipage.com/seke/seke18.html",
+      "summary": ""
+    },
+    {
+      "name": "Using sentiment analysis to define twitter political users’ classes and their homophily during the 2016 American presidential election",
+      "publisher": "Journal of Internet Services and Applications",
+      "releaseDate": "2018-11-30",
+      "website": "https://jisajournal.springeropen.com/",
+      "summary": ""
+    },
+    {
+      "name": "Utilizando Análise de Sentimentos para Definição da Homofilia Política dos Usuários do Twitter durante a Eleição Presidencial Americana de 2016",
+      "publisher": "Brazilian Workshop on Social Network Analysis and Mining (BraSNAM)At: São Paulo, São Paulo, Brazil",
+      "releaseDate": "2017-05-30",
+      "website": "http://www.each.usp.br/digiampietri/BraSNAM/2017/index.html",
+      "summary": ""
+    },
+    {
+      "name": "Development of a framework metadata based to creating RIA applications, a case study of use pattern metadata-based Graphical Component",
+      "publisher": "Miniplop",
+      "releaseDate": "2011-09-25",
+      "website": "http://goo.gl/Uv1oDr",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Software Architect ",
+      "level": "Senior",
+      "keywords": [
+        "Scalability",
+        "Non-functional requirement",
+        "Technologies and solutions"
+      ]
+    },
+    {
+      "name": "Developer",
+      "level": "Master",
+      "keywords": [
+        "Node.js",
+        "Elasticsearch",
+        "Sala",
+        "Javascript",
+        "Java",
+        "PHP",
+        "SASS",
+        "AngularJS",
+        "Node",
+        "Memcached",
+        "Kubernetes",
+        "Selenium",
+        "Oracle",
+        "Postgresql",
+        "ActiveMQ",
+        "Mongo",
+        "SCALA",
+        "Java",
+        "PHP",
+        "SASS"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    },
+    {
+      "language": "Portugues",
+      "fluency": "Native"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Development",
+      "keywords": [
+        "NodeJS",
+        "Scala",
+        "Android",
+        "Mobile",
+        "Real Time"
+      ]
+    }
+  ],
   "references": []
 }
