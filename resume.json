@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Mateus Freira",
-    "label": "Software Architect",
+    "label": "Lead Software Engineer",
     "picture": "https://avatars3.githubusercontent.com/u/234049?v=3&s=460",
     "email": "mateus.freira@gmail.com",
     "phone": "+55 (31) 99953-6408",
     "website": "http://github.com/mateusfreira",
-    "summary": "  I am a passionate developer that loves to build solutions, with strong working knowledge of agile development methodologies and many languages, platforms and frameworks. I have been working as a developer since 2007. I've been working for the last three years at Zeedhi where I developed from scratch a framework angular based to develop mobile and web solutions, it today is the base of more that 30 application inside Teknisa Group(www.teknisa.com). At Zeddhi, I'm today a tech lead and tech reference of more that 40 people and I'm responsible for choosing all technologies for the projects and developer the core features of any project in Teknisa Group(www.teknisa.com) on FrontEnd, Backend or native mobile platforms(IOS and Android). I also contribute to some open sources projects, that you can be check in the follow links. \n \n\n As a Leader https://github.com/mateusfreira/node-stackoverflow-jobs \n https://github.com/mateusfreira/activemq-scala-util \n https://github.com/appbaseio/Docbase \n https://github.com/appbaseio/grunt-docbase \n https://github.com/mateusfreira/generator-docbase \n https://github.com/mateusfreira/BlueDroid \n \n As a Contributor \n https://github.com/peterdemartini/github-jobs\n https://github.com/Hacklone/private-bower\n https://github.com/ArkeologeN/angel.co-node\n https://github.com/jansepar/node-jenkins-api\n https://github.com/andreazevedo/dispatch-github \n I have a big experience with the following technologies: Scala, Node, Mobile(Android, IoS), Java(EE), Angular, MongoDb, Redis, Memcached, PostgreSQL, C++, and PHP.",
+    "summary": "I am a passionate developer that loves to build solutions and solve problems, with knowledge in many programming languages, platforms, and frameworks. I have been working as a developer since 2007, and my experiences are from developing software as service solutions (5 years), creating development tools (3 years), to creating ERP solutions (3 years) and as a consultant developer in many projects (5 years), as a Tech lead or as an individual contributor. I have strong experience with the following technologies: Node.js, React, Scala, Mobile(Android), Java, Angular, MongoDb, Redis, Memcached, PostgreSQL, Kubernetes, and Docker.",
     "location": {
       "address": "Cesário parreiras 345 ",
       "postalCode": "",
@@ -25,10 +25,41 @@
     }]
   },
   "work": [{
+    "company": "Radical",
+    "position": "Lead Software Engineer",
+    "website": "http://radicalimaging.com/",
+    "startDate": "2019-02-29",
+    "summary": "[Remote] At Radical I am software developer consultant, working in medical imaging applications development projects",
+    "highlights": [
+      "Technology stack: Node.js, React.js, Mongo, Dicom, Medical Imaging Processing."
+    ]
+  },
+  {
+    "company": "Tenfold",
+    "position": "Lead Software Engineer",
+    "website": "http://www.tenfold.com/",
+    "startDate": "2017-02-01",
+    "endDate": "2019-02-29",
+    "summary": "[Remote] I lead a team of four engineers, with the mission to improve the product and increase product performance metrics and the NPS score, also training, hiring, and mentoring the team member. I was the leader of a team for stabilizing the product to support the usage growth, after the stabilization moved to a product role, been responsible to delivery new integration (such as Sugar CRM, Dialpad, Salesforce, etc.) and core features.",
+    "highlights": [
+      "Technology stack: Node.js, Angular, Mongo, Firebase, ElasticSearch, Kafka, AWS, Google Cloud and Kubernetes ."
+    ]
+  }, {
+    "company": "Tenfold",
+    "position": "Software Engineer",
+    "website": "http://www.tenfold.com/",
+    "startDate": "2016-09-30",
+    "endDate": "2017-02-29",
+    "summary": "[Remote]  My first challenge at Tenfold was to develop a new feature of email integration, using the email as data streaming to collect customers' interactions and sync this information with record systems like the CRM. The integration included https://context.io, google apps, office 365, and Salesforce APIs. Then I developed a new Gmail chrome extension to make all CRM information available on the Gmail interface. Then my next challenge on tenfold was to take part in a task force to improve the NPS and reduce to 0 the number of outages. As a part of this job, I took the responsibility to increase the backend code coverage to > 70% and also fixing some edge case bugs that only happened in the production environment. These two tasks give me a new vision of the code and system architecture, which soon made me a Lead Engineer.",
+    "highlights": [
+      "Technology stack: Node.js, Angular, Mongo, Firebase, ElasticSearch, Kafka, AWS, Google Cloud and Kubernetes ."
+    ]
+  },{
     "company": "Zeedhi",
     "position": "Software Architect ",
     "website": "http://www.zeedhi.com/",
     "startDate": "2013-03-01",
+    "endDate": "2016-09-30",
     "summary": "I developed from scratch the primary product of the Zeedhi Framework company. That is a Full Stack solution to build web/mobile apps. My duties include working to ensure the proper scalability of the various applications that we are developing and supporting the web and mobile development teams. I also assist with the training of the work teams by helping train them, and implementing and deploying performance improvement with techniques and tools, such as GIT, TDD, CI, CD, DDD ",
     "highlights": [
       "Frontend : Persistence API (transparent persistence layer to IndexedDb/LocalStorage/Native storage).",
@@ -83,6 +114,17 @@
   }],
   "volunteer": [],
   "education": [{
+    "institution": "Pontifícia Universidade Católica de Minas Gerais",
+    "area": "Master of Science in Computer Science (M.S.C.S.)",
+    "studyType": "Master's",
+    "startDate": "2016-06-01",
+    "endDate": "2018-12-15",
+    "gpa": "",
+    "courses": [
+      "Research in Understanding Developer's Sentiment Variations in Social Programming Network; Tools for mining software repositories",
+      "Research Interests: Machine learn; Complex network; Natural language processing"
+    ]
+  },{
     "institution": "Puc Minas",
     "area": "Information Systems",
     "studyType": "Bachelor",
@@ -95,6 +137,30 @@
   }],
   "awards": [],
   "publications": [{
+    "name": "Analyzing The Impact Of Feedback In GitHub On The Software Developer's Mood",
+    "publisher": "SEKE Software Engineering and Knowledge Engineering",
+    "releaseDate": "2018-06-30",
+    "website": "http://ksiresearchorg.ipage.com/seke/seke18.html",
+    "summary": ""
+  },{
+    "name": "An Empirical Study on the Impact of Android Code Smells on Resource Usage",
+    "publisher": "SEKE Software Engineering and Knowledge Engineering",
+    "releaseDate": "2018-06-30",
+    "website": "http://ksiresearchorg.ipage.com/seke/seke18.html",
+    "summary": ""
+  }, {
+    "name": "Using sentiment analysis to define twitter political users’ classes and their homophily during the 2016 American presidential election",
+    "publisher": "Journal of Internet Services and Applications",
+    "releaseDate": "2018-11-30",
+    "website": "https://jisajournal.springeropen.com/",
+    "summary": ""
+  }, {
+    "name": "Utilizando Análise de Sentimentos para Definição da Homofilia Política dos Usuários do Twitter durante a Eleição Presidencial Americana de 2016",
+    "publisher": "Brazilian Workshop on Social Network Analysis and Mining (BraSNAM)At: São Paulo, São Paulo, Brazil",
+    "releaseDate": "2017-05-30",
+    "website": "http://www.each.usp.br/digiampietri/BraSNAM/2017/index.html",
+    "summary": ""
+  } ,{
     "name": "Development of a framework metadata based to creating RIA applications, a case study of use pattern metadata-based Graphical Component",
     "publisher": "Miniplop",
     "releaseDate": "2011-09-25",
@@ -113,6 +179,7 @@
     "name": "Developer",
     "level": "Master",
     "keywords": [
+      "Node.js",
       "Elasticsearch",
       "Sala",
       "Javascript",
@@ -122,6 +189,7 @@
       "AngularJS",
       "Node",
       "Memcached",
+      "Kubernetes",
       "Selenium",
       "Oracle",
       "Postgresql",
@@ -130,13 +198,7 @@
       "SCALA",
       "Java",
       "PHP",
-      "SASS",
-      "Compass",
-      "Moment",
-      "Grunt",
-      "Bower",
-      "Jasmine",
-      "Coffeescript"
+      "SASS"
     ]
   }],
   "languages": [{
