@@ -1,0 +1,23 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "resume export index.html --theme elegant"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateusfreira/resume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mateusfreira/resume/issues"
+  },
+  "homepage": "https://github.com/mateusfreira/resume#readme",
+  "dependencies": {
+    "jsonresume-theme-kendall": "^0.2.0",
+    "resume-cli": "^3.0.0"
+  }
+}

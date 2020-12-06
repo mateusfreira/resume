@@ -4,14 +4,14 @@
     "label": "Lead Software Engineer",
     "picture": "https://avatars3.githubusercontent.com/u/234049?v=3&s=460",
     "email": "mateus.freira@gmail.com",
-    "phone": "USA: +1 512 333 1830  BR: +55 (31) 99953-6408",
+    "phone": "USA: +1 831 216 8572 Brazil: +55 (31) 99953-6408",
     "website": "http://github.com/mateusfreira",
     "summary": "I am a passionate developer that loves to build solutions and solve problems, with knowledge in many programming languages, platforms, and frameworks. I have been working as a developer since 2007, and my experiences are from developing software as service (5 years), creating development tools (3 years), ERP solutions (3 years) and as a consultant developer in many projects (5 years), as a Tech lead or as an individual contributor. I have strong experience with the following technologies: Node.js, React, Scala, Mobile(Android), Java, Angular, MongoDb, Redis, Memcached, PostgreSQL, Kubernetes, and Docker.",
     "location": {
       "address": "Cesário parreiras 345 ",
-      "postalCode": "",
+      "postalCode": "32606092",
       "city": "Betim",
-      "countryCode": "BR",
+      "countryCode": "Brazil",
       "region": "Minas Gerais"
     },
     "profiles": [
@@ -251,6 +251,7 @@
       "keywords": [
         "NodeJS",
         "Scala",
+        "Rust",
         "Android",
         "Mobile",
         "Real Time"
